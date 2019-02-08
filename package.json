@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "aws-sdk": "^2.276.1",
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-source-map-support": "^1.0.0",
     "babel-plugin-transform-runtime": "^6.23.0",
